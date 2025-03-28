@@ -30,11 +30,10 @@ export default function RootLayout({
         className={cn(
           geistSans.variable,
           geistMono.variable,
-          "min-h-screen bg-background font-sans antialiased",
+          "min-h-screen bg-background font-sans antialiased"
         )}
       >
         <AppProvider>{children}</AppProvider>
-        test
       </body>
     </html>
   );
