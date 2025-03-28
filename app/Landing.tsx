@@ -103,6 +103,3 @@ const LandingPage = () => {
 };
 
 export default LandingPage;
-function setMounted(arg0: boolean) {
-  throw new Error("Function not implemented.");
-}
