@@ -20,7 +20,7 @@ function OAuthButtons() {
 
 const OAuthSignIn = () => {
   return (
-    <div className="w-full">
+    <div className="w-full mt-4">
       <div className="relative mb-4">
         <div className="absolute inset-0 flex items-center">
           <span className="w-full border-t" />
